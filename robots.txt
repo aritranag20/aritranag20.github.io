@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://aritranag.com/aritranag20.github.io/sitemap/sitemap-index.xml
+Sitemap: https://aritranag.com/sitemap/sitemap-index.xml
 Host: https://aritranag.com

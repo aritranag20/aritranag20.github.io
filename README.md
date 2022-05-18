@@ -5,7 +5,7 @@
   aritranag20.github.io - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://brittanychiang.com" target="_blank">aritranag20.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github pages</a>
+  The first iteration of <a href="https://aritranag20.github.io" target="_blank">aritranag20.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github pages</a>
 </p>
 
 
